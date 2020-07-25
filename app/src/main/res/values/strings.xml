@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyChampsTeam</string>
+    <string name="prefs_file">com.utn.mychampsteam.PREFERENCE_FILE_KEY</string>
+
+    <!--Strings de login_fragment-->
+    <string name="sign_in_text">User Sign In</string>
+    <string name="hint_nickname_text">Nickname</string>
+    <string name="button_sign_in_text">Sign In</string>
+
+    <!--Strings de login_fragment-->
+    <string name="login_text">User Login</string>
+    <string name="button_login_text">Login</string>
+    <string name="click_sign_in_text">Sign In</string>
+
+    <!--Strings de login_fragment & sign_in_fragment-->
+    <string name="hint_name_text">UserName</string>
+    <string name="hint_email_text">E-mail</string>
+    <string name="hint_password_text">Password</string>
+
+    <!--String de feature_data_fragment &                  fragment_edit_character-->
+    <string name="name_data_text">Champion</string>
+    <string name="type_text">Class: </string>
+    <string name="type_data_text">typeData</string>
+    <string name="stars_text">Stars: </string>
+    <string name="team_stars_data_text">teamStarsData</string>
+    <string name="all_stars_data_text">allStarsData</string>
+    <string name="power_text">Power: </string>
+    <string name="team_power_data_text">teamPowerData</string>
+    <string name="all_power_data_text">allPowerData</string>
+
+    <string name="singature_ability_text">Signature Ability: </string>
+    <string name="button_done_text">Done</string>
+
+    <!--Strings de feature_biography_fragment-->
+    <string name="biography_text">Biography</string>
+
+    <!--Strings de main_toolbar-->
+    <string name="tb_edit_text">Edit</string>
+    <string name="tb_delete_text">Delete</string>
+</resources>

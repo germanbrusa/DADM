@@ -1,0 +1,2 @@
+rootProject.name='MyChampsTeam'
+include ':app'

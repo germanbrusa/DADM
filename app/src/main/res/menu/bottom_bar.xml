@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/featureData"
+        android:icon="@drawable/skills_48"
+        android:title="Data" />
+    <item
+        android:id="@+id/featureBiography"
+        android:icon="@drawable/bio_48"
+        android:title="Biography" />
+    <item
+        android:id="@+id/featureLink"
+        android:icon="@drawable/video_48"
+        android:title="Link" />
+</menu>

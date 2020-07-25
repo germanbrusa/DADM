@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617572348068",
+    "firebase_url": "https://cursoandroid-gb-2020.firebaseio.com",
+    "project_id": "cursoandroid-gb-2020",
+    "storage_bucket": "cursoandroid-gb-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617572348068:android:ed88d71c9cd8f6cb2d7631",
+        "android_client_info": {
+          "package_name": "com.utn.mychampsteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617572348068-qindhk2autoa7m5qdqlpuoeaom233ir3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGcK8uCBP7Z454LJVzUEWFcdSFNmVcb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617572348068-qindhk2autoa7m5qdqlpuoeaom233ir3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

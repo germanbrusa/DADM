@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/features_navgraph"
+    app:startDestination="@id/featureData">
+    <fragment
+        android:id="@+id/featureData"
+        android:name="com.utn.mychampsteam.fragments.FeatureData"
+        android:label="feature_data_fragment"
+        tools:layout="@layout/feature_data_fragment" />
+    <fragment
+        android:id="@+id/featureBiography"
+        android:name="com.utn.mychampsteam.fragments.FeatureBiography"
+        android:label="feature_biography_fragment"
+        tools:layout="@layout/feature_biography_fragment" />
+    <fragment
+        android:id="@+id/featureLink"
+        android:name="com.utn.mychampsteam.fragments.FeatureLink"
+        android:label="feature_link_fragment"
+        tools:layout="@layout/feature_link_fragment" />
+</navigation>
